@@ -6,5 +6,3 @@ import numpy as np
 print("hello world")
 
 df = pd.DataFrame()
-
-j;lkj
